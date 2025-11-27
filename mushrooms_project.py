@@ -5,11 +5,6 @@
 #
 # Requisitos (instalar antes):
 #   pip install kagglehub scikit-learn pandas numpy
-#
-# NOTA IMPORTANTE PARA TU CURSO:
-#   Si tu profesora pide marcar el uso de IA generativa,
-#   recuerda comentar en tu versión qué partes del código
-#   fueron generadas con ayuda de IA.
 # ============================================================
 
 import os
